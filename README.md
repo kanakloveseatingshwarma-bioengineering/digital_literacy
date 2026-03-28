@@ -42,7 +42,7 @@ The portfolio is organized across **five tasks**, each mapping to one module of 
 digital-literacy-project/
 │
 ├── README.md                              ← You are here
-│
+├── Project Report                         ← Comphrehensive document
 │
 ├── task-1-presentation/
 │   ├── digital-literacy-infographic.svg   ← Exported infographic (Canva)
@@ -57,7 +57,10 @@ digital-literacy-project/
 ├── task-3-platforms/
 │   ├──README.md                           ←Readme file of Task
 │   ├── Hackerrank challenge               ← Screenshot of Badge                       
-│   ├── Google Form.jpg                    ← Google Form screenshots
+│   ├── Google Form 1.png                   ← Google Form screenshots
+│   ├── Google Form 2.png                   ← Google Form screenshots
+│   ├── Google Form 3.png                   ← Google Form screenshots
+│   ├── Google Form 4.png                   ← Google Form screenshots
 │   └── Response Sheet.jpg                 ← Linked Google Sheet screenshot
 │
 ├── task-4-email-etiquette/
@@ -65,13 +68,12 @@ digital-literacy-project/
 │   ├── Email 1.md                         ←professional email drafts 1
 │   ├── Email 2.md                         ←professional email drafts 2
 │   └── Social Media Checklist.md          ← Social media Do's and Don'ts
-│   └── Project Report Task 4.md           ← Brief description
 │
 └── task-5-cybercrime/
     ├──README.md                           ←Readme file of Task
     ├── casestudy.md                       ← UPI fraud case study
     └── prevention-checklist.md            ← Stay Safe Online checklist
-    └── Project Report Task 5.md           ← Brief description
+    
 
 ---
 
@@ -80,7 +82,7 @@ digital-literacy-project/
 ### ✅ Task 1 – Digital Literacy Awareness Infographic
 > *Module 1 | 20 marks*
 
-Created a one-page infographic using **Canva** covering three core digital literacy topics: what digital literacy is, safe internet practices, and professional online presence. The visual is designed for first-year students with no prior digital training.
+Created a one-page infographic using **Canva** covering five core digital literacy topics: What is digital Literacy?, Useful digital tools, safe internet practices, Professional Online Presence, Email Ettiquette
 
 📂 Files: [`task-1-presentation/`](./task-1-presentation/)
 
@@ -96,6 +98,7 @@ Set up professional profiles on three platforms to build a foundational digital 
 | **GitHub** | Code hosting, portfolio, open source | *(your GitHub profile URL)* |
 | **LinkedIn** | Professional networking, internships | *(your LinkedIn URL)* |
 | **Kaggle** | Data science learning and competitions | *(your Kaggle URL)* |
+| **ResearchGate** | Stay on track with current research | *(your Kaggle URL)* |
 
 GitHub profile README includes name, branch, year, and learning goals.
 
@@ -128,7 +131,7 @@ Created a **Digital Literacy Awareness Quiz** with 5 questions for batchmates, i
 Both emails follow professional standards: clear subject line, formal salutation, structured body, and proper sign-off.
 
 **Part B – Social Media Checklist:**
-A Do's and Don'ts checklist with 7 Do's and 7 Don'ts for responsible social media use as a college student.
+A Do's and Don'ts checklist  for responsible social media use as a college student.
 
 📂 Files: [`task-4-email-etiquette/`](./task-4-email-etiquette/)
 
@@ -140,10 +143,11 @@ A Do's and Don'ts checklist with 7 Do's and 7 Don'ts for responsible social medi
 **Crime Type: UPI / Online Payment Fraud**
 
 **Part A – Case Study:**
-A realistic scenario based on the widely documented OLX Army Officer scam pattern, where a student selling a laptop is tricked into entering his UPI PIN in response to a fraudulent collect request — debiting his account instead of crediting it.
+UPI fraud often involves scammers sending fake “collect requests” that trick users into entering their PIN, leading to money being deducted instead of received.
+Students are especially vulnerable due to lack of awareness, resulting in financial loss and reduced trust in digital payment systems.
 
 **Part B – Prevention Checklist:**
-*Stay Safe Online* checklist with 12 actionable tips for Indian college students, 4 UPI/financial safety tips, a step-by-step victim response guide, and official reporting channels.
+*Stay Safe Online* checklist with a plethora of actionable tips for Indian college students, including UPI/financial safety tips, and official reporting channels.
 
 > 🚨 **Report cybercrime at [cybercrime.gov.in](https://cybercrime.gov.in) or call 1930**
 
@@ -155,9 +159,8 @@ A realistic scenario based on the widely documented OLX Army Officer scam patter
 
 | Resource | Link |
 |---|---|
-| 🧠 Digital Literacy Quiz (Google Form) | *(https://docs.google.com/forms/d/e/1FAIpQLSfHVeYDC5NxVyw7E6EQMyyNjU57-93pm5OMVR8K5k8xamomcA/viewform?usp=publish-editor)* |
-| 💼 LinkedIn Profile | *(https://www.linkedin.com/in/asmita-dekaphukan-791944378?utm_source=share_via&utm_content=profile&utm_medium=member_android)* |
-| 🐙 GitHub Profile | *(https://github.com/asmita25boe10102-dot)*
+| Digital Literacy Quiz (Google Form) | *(https://docs.google.com/forms/d/e/1FAIpQLSdRkRtHyshoBID7VhrWEUwE7x1wNd4xM2Mk14tBp9-lqrNKQw/viewform?usp=header)* |
+| LinkedIn Profile | *(www.linkedin.com/in/kanak-sharma-5a2358371)* |
 ### CSE0001 – Digital Literacy | VIT Bhopal University
 
 ---
