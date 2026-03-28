@@ -12,7 +12,11 @@ I would really appreciate it if you could let me know about any available positi
 Thank you for your time and consideration.
 
 Sincerely,
+
 Kanak Sharma
+
 Registration No.: 25BOE10071
+
 2nd Semester, Bioengineering
+
 VIT Bhopal
