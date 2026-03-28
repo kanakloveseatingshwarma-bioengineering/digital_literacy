@@ -14,7 +14,11 @@ I completely understand if that’s not feasible and will follow whatever you de
 Thank you for your time and consideration.
 
 Sincerely,
+
 Kanak Sharma
+
 Registration No.: 25BOE10071
+
 2nd Semester, Bioengineering
+
 VIT Bhopal
