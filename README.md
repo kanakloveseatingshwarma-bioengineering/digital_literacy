@@ -7,14 +7,14 @@
 
 | Field | Details |
 |---|---|
-| **Name** | *(Asmita Dekaphukan)* |
-| **Registration No.** | *(25BOE10102)* |
+| **Name** | *(Kanak Sharma)* |
+| **Registration No.** | *(25BOE10071)* |
 | **Branch** | B.Tech – *(Bioengineering)* |
 | **Year / Semester** | First Year – Semester *( 2)* |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
 | **Faculty** | *(Kannan)* |
-| **Submission Date** | *(26 03 2026)* |
+
 
 ---
 
@@ -46,22 +46,19 @@ digital-literacy-project/
 │
 ├── task-1-presentation/
 │   ├── digital-literacy-infographic.svg   ← Exported infographic (Canva)
-│   └── Project Report Task 1.pdf          ← Brief description
 │
 ├── task-2-portfolio/
 │   ├──README.md                           ←Readme file of Task
 │   ├── github-profile.png                 ← Screenshot of GitHub profile
 │   ├── linkedin-profile.png               ← Screenshot of LinkedIn profile
-│   ├── Research Gate-profile.png          ← Screenshot of Kaggle profile
-│   └── Project Report Task 2.md           ← Brief description
+│   ├── Research Gate-profile.png          ← Screenshot of ResearchGate profile
+│   └── Kaggle Profile                     ← Screenshot of Kaggle Profile
 │
 ├── task-3-platforms/
 │   ├──README.md                           ←Readme file of Task
-│   ├── Completed Challenges.png           ← Completed challenge screenshot
-│   ├── badge.png                          ← Badge / score screenshot
-│   ├── Google Form.jpg                    ← Google Form screenshot
+│   ├── Hackerrank challenge               ← Screenshot of Badge                       
+│   ├── Google Form.jpg                    ← Google Form screenshots
 │   └── Response Sheet.jpg                 ← Linked Google Sheet screenshot
-│   └── Project Report Task 3.md           ← Brief description
 │
 ├── task-4-email-etiquette/
 │   ├──README.md                           ←Readme file of Task
